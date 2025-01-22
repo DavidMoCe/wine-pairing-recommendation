@@ -13,7 +13,7 @@ You can access the app via the following link: 🌐 [Wine Pairing Recomendation 
 
 Learn more about the project in this video: 📹 [Watch on YouTube](https://www.youtube.com/watch?v=rCavFXeN6FI)
 
-Check out the interactive presentation: 📊 [View on Genially](https://view.genially.com/6786bfd812e4894345ad6773/presentation-presentacion-wine-pairing)
+Check out the interactive presentation: 📊 [View on Genially](https://view.genially.com/6790b8c8ed0dfc0d481eb534/presentation-presentacion-wine-pairing)
 
 ## 📂 Project Structure
 
@@ -126,7 +126,7 @@ Puedes acceder a la aplicación en el siguiente enlace: 🌐 [Wine Pairing Recom
 
 Aprende más sobre el proyecto en este video: 📹 [Ver en YouTube](https://www.youtube.com/watch?v=rCavFXeN6FI)
 
-Consulta la presentación interactiva: 📊 [Ver en Genially](https://view.genially.com/6786bfd812e4894345ad6773/presentation-presentacion-wine-pairing)
+Consulta la presentación interactiva: 📊 [Ver en Genially](https://view.genially.com/6790b8c8ed0dfc0d481eb534/presentation-presentacion-wine-pairing)
 
 ## 📂 Estructura del Proyecto
 
