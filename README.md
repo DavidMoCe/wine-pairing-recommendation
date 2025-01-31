@@ -106,7 +106,7 @@ After entering a new wine, the app will recommend food pairings based on the win
 
 
 ## 📃 License
-This project is licensed under the MIT license. See the `LICENSE`file for details.
+This project is licensed under the MIT license. See the [`LICENSE`](https://github.com/DavidMoCe/wine-pairing-recommendation/blob/main/LICENSE.txt) file for details.
 
 ## 👨‍💻 Credits
 This project was created by:
@@ -217,7 +217,7 @@ En esta pantalla, puedes ingresar un nuevo vino proporcionando los detalles como
 Después de ingresar un vino, la aplicación te recomendará maridajes de alimentos ideales basados en el vino que has introducido.
 
 ## 📃 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE`para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [`LICENSE`](https://github.com/DavidMoCe/wine-pairing-recommendation/blob/main/LICENSE.txt) para más detalles.
 
 ## 👨‍💻 Créditos
 Este proyecto fue creado por:
